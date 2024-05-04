@@ -1,3 +1,9 @@
+---
+title: Ghost Grain
+draft: false
+tags:
+  - Nuke
+---
 
 ## Did you know there is a Ghost in your Grain?
 

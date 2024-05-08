@@ -1,11 +1,25 @@
 ---
-title: Welcome to Digital Musings
+title: Ideas through Film and Visual Effects
 draft: false
 tags:
 ---
-A collection of thoughts and ideas related to Films, Visual Effects, and Film Making in general.
+Hi there!
 
-This is NOT a tutorial sites, although some Compositing techniques will be discussed here and there. This is more of a repository of the things I find useful or interesting in all aspects of Film, with a heavy emphasis on VFX.
+This is my Digital Garden of ideas, thoughts, and reflections on Films, Visual Effects, and Film Making in general.
+
+This is NOT a tutorial sites, although some Compositing techniques will be discussed here and there. This is more of a repository of the ideas and theories I've collected along the way.
+
+I believe that Films are important, and Visual Effects are an important part of this medium. In order to be good at one, you need to understand the other.
+
+---
+
+Latest Pages
+
+- [[Key Chew]]
+- [[Ghost Grain]]
+- [[ST Maps]]
+- [[Creating an ST Map]]
+- [[Colour Balance]]
 
 ---
 

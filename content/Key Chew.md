@@ -2,6 +2,8 @@
 title: Key Chew
 draft: false
 tags:
+  - Nuke
+  - Tools
 ---
 # Key Chew
 

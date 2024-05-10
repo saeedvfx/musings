@@ -14,9 +14,11 @@ So what is this? In a nut shell it's a fancy coordinate system, made up of a gre
 **Each position on the image, regardless of format size, is associated to a certain value of the Green and Red ramp.**
 
 ![[Pasted image 20220804202131.jpeg|400]]
+
 Green Ramp. 0 at the bottom, 1 up on top.
 
 ![[Pasted image 20220804202148.jpeg|400]]
+
 Red Ramp. 0 on the left, 1 off to the right.
 
 These two ramps make a coordinate system. Let's look at two of the corners.

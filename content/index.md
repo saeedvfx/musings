@@ -15,6 +15,9 @@ I believe that Films are important, and Visual Effects are an important part of 
 
 Latest Pages
 
+- [Car Comp references from the X-Files](X-Files)
+- [[Shuffle Node]]
+- [What's the deal with the Premult?](Premut)
 - [[Key Chew]]
 - [[Ghost Grain]]
 - [[ST Maps]]

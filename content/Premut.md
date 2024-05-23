@@ -73,6 +73,8 @@ Admittedly, I find this to be slightly misnamed, since what it's actually doing 
 
 But back in the day, when images where passed to the compositing department, they came in two flavours: Premult or Straight. Straight was the image without the alpha baked right in, and Premult was with the alpha already baked in.
 
+And much like that high school nick name you hated so much, the name kinda stuck.
+
 The Premult node is Nuke's way of telling it to use the cookie cutter to make your cookie!
 
 

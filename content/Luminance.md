@@ -14,7 +14,7 @@ $$
 In plain English: 
 - 30% of the **<font style="color:red">RED</font>** channel 
 - 59% of the **<font style="color:green">GREEN</font>** channel 
-- 11% of your **<font style="color:blue">BLUE</font>** channel
+- 11% of your **<font style="color:blue">BLUE</font>** channel<br>
 Equals the **Luminance** (100%)
 
 Let's try the math on the image below.

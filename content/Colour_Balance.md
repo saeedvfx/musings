@@ -25,7 +25,7 @@ Let's sample a portion of the wall behind her.
 
 ![[Pasted image 20220823195021.jpeg]]
 
-The [[Luminosity]] of the area is `0.127` with an RGB of ( .129 , .126 , .139)
+The [Luminocity](Luminance) of the area is `0.127` with an RGB of ( .129 , .126 , .139)
 
 ---
 
@@ -33,7 +33,7 @@ Now let's take a sample of the same area in the warm image.
 
 ![[Pasted image 20220823194729.jpeg]]
 
-The [[Luminosity]] of the area is `0.156` with an RGB of ( .157 , .160 , .107)
+The [Luminocity](Luminance) of the area is `0.156` with an RGB of ( .157 , .160 , .107)
 
 In [Nuke](../Software/Nuke/Nuke.md) let's add a [[Grade Node]]. 
 

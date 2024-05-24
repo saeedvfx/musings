@@ -15,6 +15,7 @@ I believe that Films are important, and Visual Effects are an important part of 
 
 Latest Pages
 
+- [[Luminance]]
 - [[Creativity]]
 - [Car Comp references from the X-Files](X-Files)
 - [[Shuffle Node]]
@@ -23,7 +24,7 @@ Latest Pages
 - [[Ghost Grain]]
 - [[ST Maps]]
 - [[Creating an ST Map]]
-- [[Colour Balance]]
+- [[Colour_Balance]]
 
 ---
 

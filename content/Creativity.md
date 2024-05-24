@@ -1,3 +1,9 @@
+---
+title: Creativity
+draft: false
+tags:
+---
+
 
 >[!quote]
 >"...creativity is about connecting ideas together, especially ideas that don’t seem connected."

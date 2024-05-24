@@ -3,8 +3,6 @@ title: Luminance
 draft: false
 tags:
 ---
-
-
 Luminance is the MEASURABLE brightness of an image. 
 
 Checking your pixels values of an image, the brighter something appears the higher the pixel values, and in turn, the darker something is the lower the pixel values. 
@@ -35,4 +33,4 @@ Which is close to the Luminance Value displayed of `0.012778`.
 The actual Math Nuke is using is probably slightly different, but it's close enough to get an idea.
 
 > [!tip] 
-You can use this value to help you [balance your colours across shots](Colour_Balance)
+>You can use this value to help you [balance your colours across shots](Colour_Balance)

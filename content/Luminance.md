@@ -26,10 +26,11 @@ The Luminosity of the area is `0.127` with an RGB of ( .129 , .126 , .139)
 $$ 
 .3*(.129) + .59*(.126) + .11*(.139)
 $$
-$$ 0.0387 + 0.07434 + 0.01529 = 0.12833
+$$ 
+0.0387 + 0.07434 + 0.01529 = 0.12833
 $$
 
-Which is close to the Luminance Value displayed of `0.012778`.
+Which is close to the Luminance Value displayed of `0.12778`.
 The actual Math Nuke is using is probably slightly different, but it's close enough to get an idea.
 
 > [!tip] 

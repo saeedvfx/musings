@@ -15,6 +15,7 @@ I believe that Films are important, and Visual Effects are an important part of 
 
 Latest Pages
 
+- [Where do Ideas comes from?](ideas)
 - [[Luminance]]
 - [[Creativity]]
 - [Car Comp references from the X-Files](X-Files)

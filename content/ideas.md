@@ -25,7 +25,7 @@ When do your best ideas happen?
 - In the shower. 
 - While going outside for a walk. 
 - While laying on the couch and staring at the ceiling. 
-- Doodling naughty human parts into your notebook. 
+- Doodling naughty human body parts into your notebook. 
 - For me; I've been known to walk around the office and solve my Rubik's cube over and over again in a trance-like state. 
 
 All these activities distract your brain in a way which allows the information to flow around more freely. Eventually one of those children will break free and bestow that EUREKA moment.

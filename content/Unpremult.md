@@ -10,12 +10,15 @@ Looking at the following we see a simple example of a [Premulted Image](Premult)
 ![[Pasted image 20240615221227.jpg|400]]
 
 It started with a checkerboard...
+
 ![[Pasted image 20240615221140.jpg|400]]
 
 Multiplyed by this lovely alpha...
+
 ![[Pasted image 20240615221206.jpg|400]]
 
 Gives us:
+
 ![[Pasted image 20240615221227.jpg|400]]
 
 But like any good math equation, we can also go in REVERSE!
@@ -38,7 +41,7 @@ So let's go backwards with our comps and DIVIDE our results with the alpha. Only
 
 The unpremult has removed the alpha and exposed our pixels. 
 
-![[Pasted image 20240615221718.jpg]]
+![[Pasted image 20240615221718.jpg|400]]
 
 What just happened here? Simple Math.
 

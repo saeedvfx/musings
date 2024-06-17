@@ -15,12 +15,13 @@ I believe that Films are important, and Visual Effects are an important part of 
 
 Latest Pages
 
+- [[Unpremult]]
 - [Where do Ideas comes from?](ideas)
 - [[Luminance]]
 - [[Creativity]]
 - [Car Comp references from the X-Files](X-Files)
 - [[Shuffle Node]]
-- [What's the deal with the Premult?](Premut)
+- [What's the deal with the Premult?](Premult.md)
 - [[Key Chew]]
 - [[Ghost Grain]]
 - [[ST Maps]]

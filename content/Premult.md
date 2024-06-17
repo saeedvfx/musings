@@ -56,9 +56,13 @@ What's: `4535 x 1` ?
 
 We all know that ANY variable times 1 will **ALWAYS** equal itself. 
 
+$$ X*1=X$$
+
 And any variable time 0 will **ALWAYS** be 0.
 
 So... `17 Billion x 0 = 0`
+
+$$ X*0=0$$
 
 So what is happening when we take our Alpha Matte and apply it to our image? 
 We're **MULTIPLYING** it.

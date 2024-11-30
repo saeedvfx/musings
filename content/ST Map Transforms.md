@@ -5,7 +5,7 @@ tags:
 ---
 Let's have some fun with STmaps!
 
-Remeber how we were able to use it to do [basic transforms](Compositing/ST%20Maps.md)?
+Remember how we were able to use it to do [basic transforms](STmaps)?
 
 Let's use a keymix and transform part of the STmap?
 

@@ -26,7 +26,7 @@ Latest Pages
 - [What's the deal with the Premult?](Premult.md)
 - [[Key Chew]]
 - [[Ghost Grain]]
-- [[ST Maps]]
+- [[STmaps]]
 - [[Creating an ST Map]]
 - [[Colour_Balance]]
 

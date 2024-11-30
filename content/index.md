@@ -15,7 +15,7 @@ I believe that Films are important, and Visual Effects are an important part of 
 
 Latest Pages
 
-- [[Creating an ST Map]]
+- [[ST Map Transforms]]
 - [[Random Expression]]
 - [[Unpremult]]
 - [Where do Ideas comes from?](ideas)
